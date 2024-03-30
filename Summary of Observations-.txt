@@ -1,0 +1,12 @@
+Summary of Observations:-
+
+1.) The Average length of employement is 8 Years.
+2.) There are more male employees.
+3.) Most of the employees work in headquarters of the company as compared to that of the Remote.
+4.) The net change of employees has changed across the years. By the year 2020 the net change of employees is more as compared to that of the 2000.
+5.) Most of the employees are from Ohio state  and from the state  wisconsin state there were only few employees.
+6.) Most of the employees belong to the white Race . There were only few employees that who belong to the Native Hawailiann or othre Pacific islander. 
+7.) Most of the employees belong the age groups of (25-34),(35-44),(45-54).
+8.) The termination rate of employees is more from the Auditing department. And marketing department has very less termination rate as compared to other departments.
+9.) There are more male employees that who belong to the age groups of (25-34),(35-44),(45-54) as compared to that of the females.
+10.) Most of the employees belong to the enginering department and there were a very few employees that who belong to the Auditing department.

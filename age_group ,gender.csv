@@ -1,0 +1,16 @@
+age_group,gender,count(*)
+18-24,Female,801
+18-24,Male,900
+18-24,Non-Conforming,39
+25-34,Female,2324
+25-34,Male,2467
+25-34,Non-Conforming,141
+35-44,Female,2246
+35-44,Male,2618
+35-44,Non-Conforming,137
+45-54,Female,2227
+45-54,Male,2404
+45-54,Non-Conforming,136
+55-64,Female,492
+55-64,Male,522
+55-64,Non-Conforming,28
